@@ -35,7 +35,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${geistSans.variable} ${geistMono.variable} ${bbhSansBartle.variable} ${bebasNeue.variable}`}>
+    <html lang="en" className={`${geistSans.variable} ${geistMono.variable} ${bbhSansBartle.variable} ${bebasNeue.variable} scroll-smooth`}>
       <body
         className={`antialiased`}
       >
