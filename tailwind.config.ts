@@ -16,6 +16,8 @@ const config: Config = {
 
         // кастомный шрифт
         bbh: ["var(--font-bbh-sans-bartle)"],
+
+        bebas: ["var(--font-bebas-neue)"],
       },
     },
   },
